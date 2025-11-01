@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.30
+datasets>=2.15
+peft>=0.4
+numpy
+evaluate
+tensorboard
